@@ -3,7 +3,7 @@ An inference engine which used first order logic resolution to answer queries fr
 
 first-order logic resolution to solve:
 
-<NQ = NUMBER OF QUERIES>
+<NQ = NUMBER OF QUERIES> \n
 <QUERY 1>
 ...
 <QUERY NQ>
